@@ -1,7 +1,7 @@
 body {
-    background: linear-gradient(to left,
-    orange 20%,
-    pink 60%,
-    rgb(43, 43, 153)
+    background: linear-gradient(to bottom,
+    white 20%,
+    pink 50%,
+    white
     );
 }
